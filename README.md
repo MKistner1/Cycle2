@@ -4,7 +4,8 @@ Webscraping Crypto Calculator
 Description / Purpose - the purpose of this project is for you to pick a cryptocurrency from the list printed and then enter the
 amount you have and calculates the total worth of you cryptocurrency. 
 
-Dependencies - I created this in eclipse and you need to add the jsoup library into yopur referenced libraries.
+Dependencies - I created this in eclipse and you need to add the jsoup library into yopur referenced libraries. 
+(link to jsoup download https://jsoup.org/download)
 
 Usage - This can be used at any time to calculate the current value of your tokens/coins with the most recent prices.
 
